@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @VrishtiVA
 
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in programming & exploring technologies.
 - 📫 How to reach me: My University Email
 - 😄 Pronouns: She/Her
   
