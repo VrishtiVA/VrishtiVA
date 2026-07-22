@@ -1,9 +1,8 @@
 # 👋 Hi, I’m @VrishtiVA
 
 - 👀 I’m interested in programming & exploring technologies.
-- 📫 How to reach me: Send me a message on LinkedIn or e-mail.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I've been working through GitLab throughout my degree.
+- 📫 How to reach me: Send me a message on LinkedIn or e-mail (if provided).
+- ⚡ Fun fact: I've been working via GitLab throughout my degree.
   
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
